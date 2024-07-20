@@ -2,6 +2,9 @@
 Reactでサイドバーナビゲーションを作る。以下の動画をハンズオン形式で実施。
 https://www.youtube.com/watch?v=YtkwC5lSW0M&list=PLT5klp7W4r8QsTk3YZgqImARa11G0Vcgl&index=3
 
+## 期間
+7月10日
+
 ## 学んだこと
 * Material UI は、Googleのマテリアルデザインのガイドラインを実装した人気の Reactコンポーネントライブラリ。Material UIを使えばReactアプリのデザインが楽になる。
 * SidebarDataとしてicon、title、linkを配列で取得するように定義した。配列を使用することで、サイドバーを簡単にループして動的に生成することができ、コードのメンテナンス性が向上する。各項目のアイコン、タイトル、リンクを明確に分離して管理することで、サイドバーの拡張や変更が容易になる。
